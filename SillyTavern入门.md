@@ -700,4 +700,10 @@ _(示意图：通常在高级定义区域可以找到相关输入框)_
 
 请参考此[文档](https://gcnl0fdqkpj6.feishu.cn/wiki/EL1pwtZOgil6bpkKo6RcR6Lindf)
 
+***
+## 第四章 角色卡制作进阶
+
+具体内容请详见此[文档](./角色卡制作-进阶.md)
+
+
 
